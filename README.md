@@ -32,8 +32,8 @@ Seems quite straight forward so I don't think there's a need for diagrams.
 ![MS2_1.jpg](Media/MS2_1.jpg)
 
 ### Converted from Regular Polygon Based -> Arbitrary Curve Based
-![MS2_2.jpg](Media/MS2_2.jpg)
-![MS2_3.jpg](Media/MS2_3.jpg)
+![Curve1.jpg](Media/MS3_1.jpg)
+![Curve2.jpg](Media/MS3_2.jpg)
 
 ### Pinnacle
 ![MS2_4.jpg](Media/MS2_4.jpg)
@@ -47,5 +47,27 @@ Automatically adapt to the polygon shape of the pillar
 ![MS2_6.jpg](Media/MS2_6.jpg)
 
 Automatically adapt to the shape of the building, with custom curve profile.
+
+# Final Submission
+
+### Final Render
+![Render1.jpg](Media/UERender2.png)
+
+
+### Divided Roof
+![Roof1.jpg](Media/MS3_Roof_1.jpg)
+![Roof2.jpg](Media/MS3_Roof_2.jpg)
+![Roof3.jpg](Media/MS3_Roof_3.jpg)
+
+
+### Window Decoration
+![Window1.jpg](Media/MS3_Window_Decor_1.jpg)
+
+### Update Parameter Interface
+![Window1.jpg](Media/MS3_Interface.jpg)
+
+### Post mortem
+
+I was actually really far away from what I wanted to achieve at first, the complexity of the building just made me work really slow. Even though I feel like I've spent decent amount of hours into working on this in the last milestonie but the difference in the overall look is just really little.
 
 
