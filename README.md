@@ -52,6 +52,7 @@ Automatically adapt to the shape of the building, with custom curve profile.
 
 ### Final Render
 ![Render1.jpg](Media/UERender2.png)
+Rendered in UE5, used existing materials and foliages, but I compiled the landscape and did the lighting myself.
 
 
 ### Divided Roof
@@ -70,4 +71,5 @@ Automatically adapt to the shape of the building, with custom curve profile.
 
 I was actually really far away from what I wanted to achieve at first, the complexity of the building just made me work really slow. Even though I feel like I've spent decent amount of hours into working on this in the last milestonie but the difference in the overall look is just really little.
 
+Also I wanted to get Houdini Engine in Unreal working so the parameters could be adjusted realtime, however, Houdini Engine turned out to be really buggy and slow that the geometry would be broken and iteration speed would be even slower compared to just simply importing and almebic file.
 
